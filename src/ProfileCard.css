@@ -1,0 +1,45 @@
+.ProfileCard{
+    display: flex;
+    margin: 0 0 1.25rem 0;
+    height: 180px;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: 0 12px 24px 0 hsl(220, 15%, 88%), 0 3px 9px hsl(220, 15%, 94%);
+}
+
+.profile-avatar{
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    min-width: 180px;
+}
+
+.profile-avatar img{
+    height: 100%;
+    width: 100%;
+}
+
+.card-body{
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    flex-basis: 100%;
+}
+
+.profile-name{
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1;
+    margin: 0;
+}
+
+.profile-login{
+    font-size: 0.85rem;
+    font-weight: 400;
+    color: hsl(220, 15%, 46% );
+}
+
+.profile-bio{
+    color: hsl(220, 0%, 23%);
+}

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Router/static/css/main.b646456d.chunk.css",
+    "main.js": "/React-Router/static/js/main.9e51446c.chunk.js",
+    "main.js.map": "/React-Router/static/js/main.9e51446c.chunk.js.map",
+    "runtime-main.js": "/React-Router/static/js/runtime-main.62e071db.js",
+    "runtime-main.js.map": "/React-Router/static/js/runtime-main.62e071db.js.map",
+    "static/js/2.59e363cf.chunk.js": "/React-Router/static/js/2.59e363cf.chunk.js",
+    "static/js/2.59e363cf.chunk.js.map": "/React-Router/static/js/2.59e363cf.chunk.js.map",
+    "index.html": "/React-Router/index.html",
+    "precache-manifest.c5a15a8e8c58b8c6e561706578b5506f.js": "/React-Router/precache-manifest.c5a15a8e8c58b8c6e561706578b5506f.js",
+    "service-worker.js": "/React-Router/service-worker.js",
+    "static/css/main.b646456d.chunk.css.map": "/React-Router/static/css/main.b646456d.chunk.css.map",
+    "static/js/2.59e363cf.chunk.js.LICENSE.txt": "/React-Router/static/js/2.59e363cf.chunk.js.LICENSE.txt",
+    "static/media/profile_img.png": "/React-Router/static/media/profile_img.0c186373.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62e071db.js",
+    "static/js/2.59e363cf.chunk.js",
+    "static/css/main.b646456d.chunk.css",
+    "static/js/main.9e51446c.chunk.js"
+  ]
+}
